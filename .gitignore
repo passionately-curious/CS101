@@ -33,3 +33,6 @@
 
 # Vim swap files
 *.swp
+
+# VScode config files
+*.vscode
